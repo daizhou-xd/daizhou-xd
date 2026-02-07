@@ -1,14 +1,18 @@
 ## Hi there 👋
 - 🔭 I’m currently working on
 - 
--* Embodied AI manipulation,
+- Embodied AI manipulation,
   
--* Reinforcement learning for robotic control,
+- Reinforcement learning for robotic control,
 
--* Robotic Structural Design 
+- Robotic Structural Design,
+
+- Dexterous Hand,
+
+- Sim to Real 
 
 - 📫 How to reach me: Email: 2633127336@qq.com or WeChat: dshzd041221
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Cooking, reading, gardening, and pull-ups.
 <!--
 **daizhou-xd/daizhou-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
