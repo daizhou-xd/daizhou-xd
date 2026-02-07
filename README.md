@@ -1,8 +1,12 @@
 ## Hi there 👋
 - 🔭 I’m currently working on
+- 
 -* Embodied AI manipulation,
+  
 -* Reinforcement learning for robotic control,
+
 -* Robotic Structural Design 
+
 - 📫 How to reach me: Email: 2633127336@qq.com or WeChat: dshzd041221
 - ⚡ Fun fact: ...
 <!--
