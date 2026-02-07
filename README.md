@@ -1,16 +1,10 @@
 ## Hi there 👋
-- 🔭 I’m currently working on
-- 
-- Embodied AI manipulation,
-  
+- 🔭 I’m currently working on  
+- Embodied AI manipulation,  
 - Reinforcement learning for robotic control,
-
 - Robotic Structural Design,
-
 - Dexterous Hand,
-
 - Sim to Real 
-
 - 📫 How to reach me: Email: 2633127336@qq.com or WeChat: dshzd041221
 - ⚡ Fun fact: Cooking, reading, gardening, and pull-ups.
 <!--
